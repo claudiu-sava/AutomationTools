@@ -6,6 +6,9 @@ Some tools made by me to automate my daily tasks
 
 > "Trust is good, control is better" - Wladimir Iljitsch Lenin
 
+## What's this?
+This is a simple tool made to check bulk Veracrypt containers (based on path and password).
+
 ## How to run
 ! Windows only !
 * Make sure Python is installed
