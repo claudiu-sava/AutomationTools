@@ -17,7 +17,7 @@ except:
   pass
 
 try:
-  i = open("good.txt", "x")
+  i = open("bad.txt", "x")
 except:
   pass
 
